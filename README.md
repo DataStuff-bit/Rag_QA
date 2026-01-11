@@ -1,5 +1,5 @@
 # 🤖AI-Powered Document Q&A System
-
+Deployed Link:-https://4z7j3hydyvumykjzhqkcfs.streamlit.app/
 **Production-ready Retrieval-Augmented Generation (RAG) system with Streamlit UI**
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
